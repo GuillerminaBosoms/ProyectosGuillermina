@@ -1,0 +1,2 @@
+- 👋 Hola, me llamo Guillermina
+- 🌱 Actualmente estoy aprendiendo Java y MySql
