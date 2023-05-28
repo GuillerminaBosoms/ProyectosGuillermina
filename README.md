@@ -1,2 +1,3 @@
 - 👋 Hola, me llamo Guillermina
-- 🌱 Actualmente estoy aprendiendo Java y MySql
+- 🌱 Actualmente estoy aprendiendo Java y Sql
+- Estoy cursando el Bootcamp de SomosCoders! 
